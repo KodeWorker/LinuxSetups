@@ -25,3 +25,6 @@ follow the instructions
 
 [7]整理Launcher Bar
 只留下Files, Firefox, Software, Amazon, Settings, Spotify, Terminal, Atom, Trash
+
+[8]記得將系統語言設定為English
+
