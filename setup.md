@@ -23,3 +23,5 @@ follow the instructions
 
 [6]匯入firefox書籤頁
 
+[7]整理Launcher Bar
+只留下Files, Firefox, Software, Amazon, Settings, Spotify, Terminal, Atom, Trash
