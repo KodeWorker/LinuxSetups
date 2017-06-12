@@ -1,4 +1,8 @@
-﻿[1]安裝git
+﻿[0]更新Ubuntu
+
+sudo apt-get update && sudo apt-get upgrade
+
+[1]安裝git
 
 sudo apt-get install git
 
@@ -40,5 +44,9 @@ go to https://www.spotify.com/tw/download/linux/
 
 follow the instructions
 
-[9]記得將系統語言設定為English
+[9]安裝Flash player for watching Safari Online Video
+
+sudo apt-get install flashplugin-installer 
+
+[10]記得將系統語言設定為English
 
