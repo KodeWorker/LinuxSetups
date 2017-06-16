@@ -2,6 +2,8 @@
 
 sudo apt-get update && sudo apt-get upgrade
 
+若遇到問題，依指示sudo apt-get -f install
+
 [1]安裝git
 
 sudo apt-get install git
@@ -12,9 +14,11 @@ go to https://www.dropbox.com/install-linux
 
 follow instructions
 
+若是出現警告要求restart Nautilus: sudo nautilus -q
+
 [3]安裝Atom
 
-到atom.io下載xxx.deb
+到 atom.io下載 xxx.deb
 
 sudo dpkg -i xxx.deb
 
@@ -26,11 +30,15 @@ atom.io packages for web-dev:
 
 [4]安裝新酷音
 
+先去language選項內安裝traditional Chinese
+
 sudo apt-get install fcitx-chewing
+
+去輸入法中新增ibus新酷音
 
 [5]安裝vim
 
-sudo apt-get install vi
+sudo apt-get install vim
 
 [6]匯入firefox書籤頁
 
@@ -49,4 +57,6 @@ follow the instructions
 sudo apt-get install flashplugin-installer 
 
 [10]記得將系統語言設定為English
+
+
 
