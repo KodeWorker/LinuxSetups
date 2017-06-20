@@ -42,10 +42,13 @@ sudo dpkg -i xxx.deb
 
 atom.io packages for web-dev:
 
-> apm install atom-html-preiew__
-> apm install csscomb__
-> apm install color-picker__
-> apm install atom-beautify__
+> apm install atom-html-preiew
+
+> apm install csscomb
+
+> apm install color-picker
+
+> apm install atom-beautify
 
 ### [4]安裝Dropbox
 
